@@ -1,0 +1,8 @@
+[UMD-4-updates]
+name=UMD-4-updates
+baseurl=http://linuxsoft.cern.ch/mirror/repository.egi.eu/sw/production/umd/4/centos7/x86_64/updates
+enabled=1
+gpgcheck=1
+gpgkey=http://linuxsoft.cern.ch/mirror/repository.egi.eu/UMD-RPM-PGP-KEY http://linuxsoft.cern.ch/mirror/repository.egi.eu/RPM-GPG-KEY-emi
+exclude=cvmfs
+priority=25
